@@ -1,4 +1,4 @@
-# Technical Interview (React)
+# Technical Interview
 This technical interview problem is intended to help determine an individual's comfort level with fundamental React features.
 
 The source code provides a minimal [App.js](./src/App.js) file with a single functional [List.js](./src/List.js) component.
