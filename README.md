@@ -5,7 +5,11 @@ The source code provides a minimal [App.js](./src/App.js) file with a single fun
 
 The individual's goal is to implement a `handleCompletedToggle` function. When a user clicks the checkbox for a given item, the item's `completed` state should be toggled.
 
-## Available Scripts
+## Project Setup
 
-In the project directory, you can run:
-### `npm start`
+```sh
+git clone https://github.com/GregCKrauseLLC/react-technical-interview.git
+cd react-technical-interview
+npm install
+npm start
+```
